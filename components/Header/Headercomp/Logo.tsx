@@ -18,7 +18,12 @@ export default function Logo(props: { finishedLoading: boolean }) {
           initial={{ x: 1 }}
           className="absolute h-full w-full flex justify-center items-center text-lg font-Header text-AAsecondary"
         >
-          <Image src={"/jamshaid.png"} height={40} width={40} />
+          <Image
+            src={"/jamshaid.png"}
+            height={40}
+            width={40}
+            alt="Jamshaid Javaid logo"
+          />
         </motion.span>
 
         <motion.div

@@ -54,33 +54,33 @@ export default function AboutMe(props) {
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm ">
             <div className="font-Header ">
               <span className="text-gray-400 ">
-                Hey there! I'm Jamshaid Javaid, a tech enthusiast fueled by a
-                desire to bring excitement and creativity to digital innovation.
-                My journey began as a Freelance Designer, where I honed my
-                skills in{" "}
+                Hey there! I&apos;m Jamshaid Javaid, a tech enthusiast fueled by
+                a desire to bring excitement and creativity to digital
+                innovation. My journey began as a Freelance Designer, where I
+                honed my skills in{" "}
                 <span className="text-AAsecondary">Adobe Suite and Figma</span>,{" "}
                 crafting eye-catching designs for various platforms.
               </span>
             </div>
             <div className="font-Header ">
               <span className="text-gray-400 ">
-                Transitioning into coding during my studies, I've been busy
+                Transitioning into coding during my studies, I&apos;ve been busy
                 implementing efficient solutions using{" "}
                 <span className="text-AAsecondary">
                   JavaScript, TypeScript, and Python
                 </span>
                 , especially in{" "}
                 <span className="text-AAsecondary">web development.</span>{" "}
-                Beyond coding, I'm passionate about teamwork and making a
-                positive impact, whether it's volunteering at places like the{" "}
-                Shaukat Khanum Memorial Cancer Hospital or{" "}
+                Beyond coding, I&apos;m passionate about teamwork and making a
+                positive impact, whether it&apos;s volunteering at places like
+                the Shaukat Khanum Memorial Cancer Hospital or{" "}
                 <span className="text-AAsecondary">
                   mentoring aspiring coders.
                 </span>
                 <br className="2xl:block hidden" />{" "}
                 <br className="2xl:block hidden" />
-                If you're ready to dive into the world of tech and innovation,
-                let's team up and make some magic happen!
+                If you&apos;re ready to dive into the world of tech and
+                innovation, let&apos;s team up and make some magic happen!
               </span>
             </div>
 

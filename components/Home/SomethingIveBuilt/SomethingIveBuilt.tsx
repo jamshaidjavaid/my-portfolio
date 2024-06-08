@@ -388,14 +388,14 @@ export default function SomethingIveBuilt() {
                 </span>
                 <a href="#" target={"_blank"} rel="noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Chef's Cuisine
+                    Chef&apos;s Cuisine
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
-                  Developed a comprehensive web application for Chef's Cuisine
-                  using{" "}
+                  Developed a comprehensive web application for Chef&apos;s
+                  Cuisine using{" "}
                   <span className="text-AAsecondary">
                     Next.js, Node.js, and TypeScript
                   </span>
