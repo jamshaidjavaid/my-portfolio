@@ -91,7 +91,9 @@ export default function MyName(props: { finishedLoading: boolean }) {
         geeking out over optimizing systems for peak performance and
         scalability. <br className="2xl:block hidden" />
         <br className="2xl:block hidden" />
-        <span className="text-AAsecondary">It's where the magic happens!</span>
+        <span className="text-AAsecondary">
+          It&apos;s where the magic happens!
+        </span>
       </motion.h3>
       <motion.div
         initial={{ y: 10, opacity: 0 }}
