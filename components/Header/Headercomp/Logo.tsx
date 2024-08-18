@@ -23,6 +23,7 @@ export default function Logo(props: { finishedLoading: boolean }) {
             height={40}
             width={40}
             alt="Jamshaid Javaid logo"
+            className="round object-cover"
           />
         </motion.span>
 
